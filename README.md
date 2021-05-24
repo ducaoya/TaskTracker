@@ -1,6 +1,6 @@
 # Task Tracker
 
-> 这是一个任务清单项目，纯vue项目
+> 这是一个任务清单项目，纯vue项目。
 > 项目是跟着YouTube视频学习编写的，YouTube链接：https://www.youtube.com/watch?v=qZXt1Aom3Cs&list=PLkCKt0ojMfujZZXDXW3ejkKj-ZjHRgWjp&index=1&t=3379s
 
 ## 项目介绍
